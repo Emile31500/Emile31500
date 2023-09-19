@@ -1,32 +1,47 @@
-## Hello World !
+# Hello World !
+
+## Presentation
+
+I'm Emile Armengaud, a 21 year's french old student who's searching for a job of backend developpement in switherland.
 
 ### Principle
 
-  💼 Backend web developper
+💼 Backend web developper
   
-  🌍 English, Français, Italiano
+🌍 English, Français, Italiano
 
-  ✉️ emile00013@gmail.com
+✉️ emile00013@gmail.com
 
-  ❤️️ Theater, Fitness, MMA
+❤️️ Theater, Fitness, MMA
   
-<p>
-  <div style="display: inline;">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="JavaScript Icon" width="25" height="25" >
-    <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/183/thumb_bigger_formation-php.png" alt="JavaScript Icon" width="25" height="15">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-3629099-3030371.png" alt="JavaScript Icon" width="25" height="25">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JavaScript Icon" width="25" height="25">
-  </div>
+### Language
+[![My Skills](https://skillicons.dev/icons?i=js,php,mysql,bootstrap)](https://skillicons.dev)
+
+### Framework
+[![My Skills](https://skillicons.dev/icons?i=symfony,laravel,nodejs)](https://skillicons.dev)
+
+### Other tools
+[![My Skills](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
+
+ ### Contact me
+<p align="left">
+  <a href="https://linkedin.com/in/emile-armengaud-9083b21a1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emile-armengaud-9083b21a1" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/herme83s" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="herme83s" height="30" width="40" />
+  </a>
 </p>
- 
---------
 
-### Stats
-<p>
+## Stats
+<div style="display: flex; flex-direction: column;">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emile31500)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emile31500&layout=compact)
+  
+</div>
 
-</p>
+
 <!--Available in : 🇺🇸 🇫🇷 🇮🇹
 
   ## Hello World ! 🇺🇸
