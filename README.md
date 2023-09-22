@@ -2,7 +2,7 @@
 
 ## Presentation
 
-I'm Emile Armengaud, a 21 year's french old student who's searching for a job of backend developpement in switherland.
+I'm Emile Armengaud, a 21 year's french old student who's looking for a job of backend developpement in switherland.
 
 ### Principle
 
@@ -40,48 +40,3 @@ I'm Emile Armengaud, a 21 year's french old student who's searching for a job of
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emile31500&layout=compact)
   
 </div>
-
-
-<!--Available in : 🇺🇸 🇫🇷 🇮🇹
-
-  ## Hello World ! 🇺🇸
-  
-  ### Presentation
-  
-  I'm a French web developper specialize in Backend developpement especially in Symfony. I wish I work in French-speaking Switherland, and maybe later in Germanic Switherland.
-  Interest in sciences, I was susbcribed to a science magazine during my whole college middle school (Sciences & Vie Junior /). I discover IT with video-games. Indeed, I would have liked to build my owen Desktop Computer to play video-games, informing my self on cthis subjet, my interest for this domain rose and for video games dicreased.
-  
-  ----
-  
-  ### Studies 🎓
-  
-  Industry Technics and Sciences of Sustainable Developpment high school diploma. Where I learnt the upcoming skills  :
-  <i>(French name : Bac STI2D)</i>
-  <ul>
-    <li>CAD with Dassault Solidwork sfotware</li>
-  </ul>
-  
-  Associate degree : IT services to Organisation :
-  <i>(French name : BTS SIO)</i>
-  <ul>
-    <li>Nerwork conception with CISCO Packet Tracer</li>
-    <li>TCP/IP networks and OSI model</li>
-    <li>Coding in : C#, php, JS </li>
-  </ul>
-  
-  ## Bonjour Tout le monde ! 🇫🇷
--->
-<!--
-**Emile31500/Emile31500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
