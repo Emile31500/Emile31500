@@ -2,7 +2,7 @@
 
 ## Presentation
 
-I'm Emile Armengaud, a 21 year's french old student who's looking for a job of backend developpement in switherland.
+I'm Emile Armengaud, a 21 year's french old student who's looking for a job of backend developpement in france.
 
 ### Principle
 
