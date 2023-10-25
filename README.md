@@ -15,7 +15,9 @@ I'm Emile Armengaud, a 21 year's french old student who's looking for a job of b
 ❤️️ Theater, Fitness, MMA
   
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=js,php,mysql,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,mysql)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap)](https://skillicons.dev)
 
 ### Framework
 [![My Skills](https://skillicons.dev/icons?i=symfony,laravel,nodejs)](https://skillicons.dev)
