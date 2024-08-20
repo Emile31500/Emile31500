@@ -2,9 +2,10 @@
 
 ## Presentation
 
-I'm Emile Armengaud, a 21 year's french old student who's looking for a job of backend developpement in france.
+I'm Emile Armengaud, a 22-year-old back-end developer working as a freelancer. I specialize in PHP, particularly with the Symfony framework. If you're looking for a trustworthy partner to help create your project, you can contact me via the email provided in the "Main" section below.
+Hoping we will meet us soon !
 
-### Principle
+### Main
 
 💼 Backend web developper
   
