@@ -2,7 +2,7 @@
 
 ## Presentation
 
-I'm Emile Armengaud, a 22-year-old back-end developer working as a freelancer. I specialize in PHP, particularly with the Symfony framework. If you're looking for a trustworthy partner to help create your project, you can contact me via the email provided in the "Main" section below.
+I'm Emile Armengaud, a 23-year-old back-end developer working as a freelancer. I specialize in PHP, particularly with the Symfony framework. If you're looking for a trustworthy partner to help create your project, you can contact me via the email provided in the "Main" section below.
 Hoping we will meet us soon !
 
 ### Main
