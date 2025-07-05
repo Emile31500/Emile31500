@@ -21,7 +21,7 @@ Hoping we will meet us soon !
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap)](https://skillicons.dev)
 
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=symfony,laravel,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,laravel,nodejs,django)](https://skillicons.dev)
 
 ### Other tools
 [![My Skills](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
