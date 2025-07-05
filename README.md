@@ -16,7 +16,7 @@ Hoping we will meet us soon !
 ❤️️ Theater, Fitness, MMA
   
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=js,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,php,mysql)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap)](https://skillicons.dev)
 
